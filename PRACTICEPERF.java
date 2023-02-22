@@ -1,4 +1,5 @@
-/* package codechef; // don't place package name! */
+// https://www.codechef.com/problems/PRACTICEPERF?tab=statement
+// Question Link^^^
 
 import java.util.*;
 import java.lang.*;
